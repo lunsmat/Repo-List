@@ -1,44 +1,20 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1>List of repositories</h1>
+<p>This is to list all repositories of one person on github</p>
 
-## Available Scripts
+# Look
+<div align="center">
+    <img src="https://dpwkmw.dm.files.1drv.com/y4mZyUo1Ir_YfRt6ySFJlhKT-nFggQ180p7aKx6qdKrI0OeltCbFYGRPXrB7jv-hpK7xDW00AJyEC5jO22b6B021qk_7UQbIXNDl7ewNbjLkfGYzqYHuI12ekUWE2Cxev4EXO-5_Fs7_sAjItTLqnTDxMp_50GmNbCnSZkdnv0t1EyZ-Ko3vgJS33X6aCUwdnpoByxstw4-aEv5i2J5c7XJzA?width=426&height=319&cropmode=none" alt="" />
+</div>
 
-In the project directory, you can run:
+<p>Very simple, isn't it?</p>
+<p>Realy is, all this was maden with react, but how it's work?</p>
+<p>You can understand how works by dependencies</p>
 
-### `npm start`
+- - -
+- React: The React is used to render the application 
+- Redux: The Redux is used to store all the repositories in a globally state
+- Axios: The Axios is used to connect with github's api
+- Redux-Saga: The Redux-Saga is used to make the control async operations with redux
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<p>All this was maden using typescript</p>
+<p>This is a simple app and make a simple thing, isn't so hard</p>
